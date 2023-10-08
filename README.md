@@ -40,8 +40,8 @@ Follow these steps to install and run the project:
 
 1. Clone the repository:
 
-git clone https://github.com/your/repository.git
-cd repository
+git clone https://github.com/capsy14/Blockchain-Based-Certification-and-Validation.git
+cd Blockchain-Based-Certification-and-Validation
 
 
 2. Install dependencies:
@@ -53,15 +53,11 @@ npm install
 
 4. Deploy smart contracts to the Ethereum blockchain using Truffle:
 
-Hardhat
+Truffle
 
 
 5. Start the application:
 npm start
-
-## Contributing
-
-We welcome contributions from the community. If you'd like to contribute to the project, please follow our [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
